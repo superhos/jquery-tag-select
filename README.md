@@ -2,6 +2,8 @@
 
 A Dropdown plugin for selecting the tag items.
 
+![demo](https://raw.githubusercontent.com/superhos/jquery-tag-select/master/screenshot/tagselect.gif)
+
 ## Getting Started
 1. Downloading or Forking this repository 
 2. Setup the build
