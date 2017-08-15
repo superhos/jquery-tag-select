@@ -35,7 +35,6 @@ HTML target as below.
         <li>GoodStudy</li>
         <li>Hot</li>
     </ul>
-    <div class="clearfix"></div>
 </div>
 ```
 Use it like:
