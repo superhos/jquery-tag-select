@@ -1,0 +1,27 @@
+{
+  "name": "tag-select",
+  "title": "Tag Select",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/superhos/jquery-tag-select",
+  "author": {
+    "name": "SevensChan",
+    "email": "297495165@qq.com",
+    "url": "www.chenhaotaishuaile.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/superhos/jquery-tag-select.git"
+  },
+  "bugs": "https://github.com/superhos/jquery-tag-select/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/superhos/jquery-tag-select/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
